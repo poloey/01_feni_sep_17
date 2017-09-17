@@ -1,3 +1,12 @@
+# Outline
+
+## Html, css, Js, Jquery - 30h
+## PHP - 60h
+## Mysql - 20h
+## Wordpress - 20h
+## Laravel - 30h
+
+
 # Software requirement for developing 
 
 * Nodejs
