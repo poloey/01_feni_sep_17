@@ -46,3 +46,13 @@ touch <filename>
 mkdir <folderName>
 ~~~
 
+### to back to parents directory
+~~~
+cd ..
+~~~
+
+### to clear screen
+~~~
+cls - windows
+clear - linux
+~~~
