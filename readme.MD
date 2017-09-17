@@ -12,6 +12,8 @@
 * Nodejs
 * Code editor(VScode or Sublime text)
 * git 
+
+
 ### to check whethere Software install in your pc or not 
 ~~~
 node -v
@@ -19,7 +21,12 @@ node -v
 
 # Essential command
 
-###change directory
+### Cloning git repo
+~~~
+git clone <Repo> 
+~~~
+
+### change directory
 ~~~
 cd  <folderName>
 ~~~
