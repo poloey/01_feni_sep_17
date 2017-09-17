@@ -26,6 +26,12 @@ node -v
 git clone <Repo> 
 ~~~
 
+### getting directory all file
+~~~
+ls 
+dir
+~~~
+
 ### change directory
 ~~~
 cd  <folderName>
