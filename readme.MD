@@ -1,10 +1,11 @@
-# Outline
+# Top up / Web Dev / Feni / September 17, 2017 / Class 01
+## Outline
 
-## Html, css, Js, Jquery - 30h
-## PHP - 60h
-## Mysql - 20h
-## Wordpress - 20h
-## Laravel - 30h
+* Html, css, Js, Jquery - 30 hours
+* PHP - 60 hours
+* Mysql - 20 hours
+* Wordpress, blogging, ecommerce - 20 hours
+* Laravel - 30 hours
 
 
 # Software requirement for developing 
@@ -28,8 +29,8 @@ git clone <Repo>
 
 ### getting directory all file
 ~~~
-ls 
-dir
+ls - linux
+dir - windows
 ~~~
 
 ### change directory
