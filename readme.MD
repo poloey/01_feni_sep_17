@@ -12,7 +12,7 @@
 
 * Nodejs
 * Code editor - [VScode](https://code.visualstudio.com/) or [Sublime text](https://www.sublimetext.com/)
-* git 
+* [git](https://git-scm.com/)
 
 
 ### to check whethere Software install in your pc or not 
