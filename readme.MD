@@ -6,6 +6,9 @@
 * Mysql - 20 hours
 * Wordpress, blogging, ecommerce - 20 hours
 * Laravel - 30 hours
+* project - 80 hours
+* soft skills - 60 hours
+
 
 
 # Software requirement for developing 
