@@ -1,5 +1,5 @@
 # Class 01
-# View [:house: - all class list](https://poloey.github.io/feni/)
+# [:house: - view all class list](https://poloey.github.io/feni/)
 ## Outline
 
 * Html, css, Js, Jquery - 30 hours
