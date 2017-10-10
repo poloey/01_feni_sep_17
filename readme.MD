@@ -14,7 +14,7 @@
 
 # Software requirement for developing 
 
-* Nodejs
+* [Nodejs](https://nodejs.org/en/)
 * Code editor - [VScode](https://code.visualstudio.com/) or [Sublime text](https://www.sublimetext.com/)
 * [git](https://git-scm.com/)
 
